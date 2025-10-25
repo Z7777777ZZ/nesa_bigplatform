@@ -1,0 +1,63 @@
+# 环境变量文件（包含敏感信息）
+.env
+*.env
+
+# Python缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# 虚拟环境
+venv/
+env/
+ENV/
+
+# 上传文件目录
+uploads/
+*.uploaded
+
+# 日志文件
+*.log
+logs/
+
+# 数据库文件
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE配置
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# 临时文件
+tmp/
+temp/
+*.tmp
+
+# 测试报告
+reports/
+test_results/
+
+# 备份文件
+*.bak
+*.backup
+
+# 密钥文件
+*.key
+*.pem
+*.p12
+
+# 配置文件副本
+config_local.py
+settings_local.py
