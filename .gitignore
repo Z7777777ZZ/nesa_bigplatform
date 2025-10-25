@@ -14,9 +14,6 @@ venv/
 env/
 ENV/
 
-# 上传文件目录
-uploads/
-*.uploaded
 
 # 日志文件
 *.log
@@ -45,9 +42,6 @@ tmp/
 temp/
 *.tmp
 
-# 测试报告
-reports/
-test_results/
 
 # 备份文件
 *.bak
